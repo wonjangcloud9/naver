@@ -5,4 +5,8 @@ class ApiService {
   void getTodaysToons() {
     print("getTodaysToons");
   }
+
+  void getToon(String toonId) {
+    print("getToon");
+  }
 }
